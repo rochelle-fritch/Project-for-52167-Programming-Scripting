@@ -28,16 +28,21 @@ From this basic data exploration we can see the two classes of iris, *Iris versi
 
 *I. setosa* has both a shorter sepal and petal length, smaller petals overall, in length and width, and wider sepals compared the two other classes. *I. versicolor* has slightly smaller petals in length and width compared to *I. virginica*.
 
-##### Table 1
-![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
+##### Table 1. Showing the minumum, maximum and mean for sepal and petal length and width (S = Sepal, P = Petal, L = Length, W = Width) for three classes of iris.
 
-S = Sepal, P = Petal, L = Length, W = Width
+Iris class      | SL Min | SL Max | SL Mean | SW Min | SW Max | SW Mean | PL Min | PL Max | PL Mean | PW Min | PW Max | PW Mean
+:-------------: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----:
+Iris-setosa     | 4.3    | 5.8    | 5.006   | 2.3    | 4.4    | 3.418   | 1      | 1.9    | 1.464   | 0.1    | 0.6    | 0.244
+Iris-versicolor | 4.9    | 7      | 5.936   | 2      | 3.4    | 2.77    | 3      | 5.1    | 4.26    | 1      | 1.8    | 1.326
+Iris-virginica  | 4.9    | 7.9    | 6.588   | 2.2    | 3.8    | 2.974   | 4.5    | 6.9    | 5.552   | 1.4    | 2.5    | 2.026
+
 
 [CSV output file](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.csv)
 
 
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
-##### Figure 1 [Figure_1.png](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
+##### Figure 1. Graph all combinations for three classes of iris. 
+[Figure_1.png](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
 
 
 
