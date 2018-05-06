@@ -24,8 +24,9 @@ Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4,
 
 #### Results from data exploration
 
-From this basic data exploration we can see the two classes of iris, *Iris versicolor* and *Iris virginica*, are morphologically similar, whereas *Iris setosa* is quite distinct. *I. setosa* has both a shorter sepal and petal length compared the two other classes. 
+From this basic data exploration we can see the two classes of iris, *Iris versicolor* and *Iris virginica*, are morphologically similar, whereas *Iris setosa* is quite distinct (Figure 1).
 
+*I. setosa* has both a shorter sepal and petal length, smaller petals overall, in length and width, and wider sepals compared the two other classes. *I. versicolor* has slightly smaller petals in length and width compared to *I. virginica*.
 
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
 
