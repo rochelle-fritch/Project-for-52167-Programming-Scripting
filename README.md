@@ -24,5 +24,8 @@ Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4,
 
 #### Results from data exploration
 
+
 CSV output file iris_output.csv
+
+
 Graph Figure_1.png
