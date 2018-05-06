@@ -14,7 +14,7 @@ The Iris dataset was collected by Edgar Anderson to investigate the morphologic 
 
 This dataset is frequently used as a demonstration dataset for teaching basic programming for data analytics and machine learning. 
 
-####Exploration of data in python
+#### Exploration of data in python
 
 First a dictionary was defined for the dataset called “iris_class”. This classified the three classes of iris and their samples for future use. Next, basic data exploration was executed using the Numpy library (4), this included minimum, maximum and mean (5) of each class of iris.
 
