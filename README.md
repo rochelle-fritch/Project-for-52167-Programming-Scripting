@@ -27,6 +27,7 @@ Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4,
 
 
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
+S = Sepal, P = Petal, L = Length, W = Width
 [CSV output file](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
 
 
