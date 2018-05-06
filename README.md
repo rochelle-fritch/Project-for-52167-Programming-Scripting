@@ -22,6 +22,8 @@ Both of these scripts were printed in the command line to check for errors. To a
 
 Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4, 5). First six individual figures were plotted for all combinations of sepal length, sepal width, petal length, petal width, as x,y plots. The three iris classes were plotted as three different colours. As this was cumbersome, all six plots were included in one figure, with one legend.
 
+[Python file](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Project.py)
+
 #### Results from data exploration
 
 From this basic data exploration we can see the two classes of iris, *Iris versicolor* and *Iris virginica*, are morphologically similar, whereas *Iris setosa* is quite distinct (Figure 1, Table 1).
