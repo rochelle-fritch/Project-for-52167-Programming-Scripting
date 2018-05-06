@@ -4,7 +4,7 @@
 
 ### Background & data summary
 
-The Iris dataset was collected by Edgar Anderson to investigate the morphologic variation of three classes (species) of Irises in Gaspé Peninsula (1). Fisher used this dataset in 1936 to discriminate between the classes (2). This multivariate data set records four variables of three classes of Iris (Iris Setosa, Iris Versicolour, Iris Virginica). Each class of Iris has 50 replicates, giving a total of 150 samples in the dataset. Four flower variables, as well as Iris class were recorded. Here each row representas a sample and each column represents a variable measured (3):
+The Iris dataset was collected by Edgar Anderson to investigate the morphologic variation of three classes (species) of Irises in Gaspé Peninsula (1). Fisher used this dataset in 1936 to discriminate between the classes (2). This multivariate data set records four variables of three classes of Iris (*Iris Setosa*, *Iris Versicolour*, *Iris Virginica*). Each class of Iris has 50 replicates, giving a total of 150 samples in the dataset. Four flower variables, as well as Iris class were recorded. Here each row representas a sample and each column represents a variable measured (3):
 
 1.	sepal length (cm)
 2.	sepal width (cm)
@@ -25,6 +25,7 @@ Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4,
 #### Results from data exploration
 
 From this basic data exploration we can see the two classes of iris, *Iris versicolor* and *Iris virginica*, are morphologically similar, whereas *Iris setosa* is quite distinct. *I. setosa* has both a shorter sepal and petal length compared the two other classes. 
+
 
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
 
