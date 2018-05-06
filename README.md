@@ -26,6 +26,10 @@ Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4,
 
 
 CSV output file iris_output.csv
+![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting)
 
 
 Graph Figure_1.png
+![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
+
+
