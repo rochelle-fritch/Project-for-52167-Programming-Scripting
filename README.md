@@ -41,7 +41,7 @@ Iris-virginica  | 4.9    | 7.9    | 6.588   | 2.2    | 3.8    | 2.974   | 4.5   
 
 
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
-##### Figure 1. Graph all combinations for three classes of iris. 
+##### Figure 1. Six graphs of all combinations of sepal length, sepal width, petal length and petal width versus each other for three classes of iris. 
 [Figure_1.png](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
 
 
