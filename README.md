@@ -33,7 +33,7 @@ From this basic data exploration we can see the two classes of iris, *Iris versi
 
 S = Sepal, P = Petal, L = Length, W = Width
 
-[CSV output file](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
+[CSV output file](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.csv)
 
 
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
