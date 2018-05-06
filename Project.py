@@ -4,29 +4,24 @@
 
 
 import numpy as np # import the package and make a shortcut "np"
-# import pandas as pd # import the package and make a shortcut "pd"
 import matplotlib.pyplot as plt
-
-
-# Define data variables
-# sepal_length
-# sepal_width
-# petal_length
-# petal_width
-iris_class = {}
 
 # Using the week 5 assignment as a starting point.
 
+# Here we are defining the dictionary to use after. 
+
+iris_class = {}     # defines the dictionary
 with open("Data/iris.csv") as f:
-    for line in f:                      # looping through each line in file
-        if line[-1] == '\n':            # removes the charater for each line
+    for line in f:                          # looping through each line in file
+        if line[-1] == '\n':                # removes the last charater for each line
             line = line[:-1]
-        x = line.split(',') # splits lines into a list, read the line, but not the last charach
-        dat = [float(i) for i in x[:-1]] # defines floating point number, comprehension list
-        if x[4] in iris_class:
-            iris_class[x[4]].append(dat) # this removes the last variable
+        x = line.split(',')                 # splits lines into a list, read the line
+        dat = [float(i) for i in x[:-1]]    # defines floating point number, comprehension list, exept for the last item, which is a string.
+        if x[4] in iris_class:              
+            iris_class[x[4]].append(dat)    # Index "iris class" by the class of the current line. 
         else :
-            iris_class[x[4]] = [dat] #
+            iris_class[x[4]] = [dat]   
+print(iris_class)                           # This prints the dictionary created above (looks ugly, but I have done to visualise the list)
 
 # This prints the minimum, maximum and mean for each class of Iris, each on it's own line for: sepal length, sepal width, petal length, petal width.
 
