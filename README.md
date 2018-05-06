@@ -29,7 +29,19 @@ Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4,
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
 [CSV output file](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/iris_output.png)
 
-Graph Figure_1.png
+
 ![alt text](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
 [Figure_1.png](https://github.com/rochelle-fritch/Project-for-52167-Programming-Scripting/blob/master/Figure_1.png)
+
+
+### References
+
+1.	[Anderson, E. (1936) The Species Problem in Iris. Annals of the Missouri Botanical Garden, 23, 457-509.](https://www.jstor.org/stable/2394164?seq=1#page_scan_tab_contents)
+2.	[Fisher, R.A. (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics, 7, 179-188.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-1809.1936.tb02137.x)
+3.	[Fisher, R.A. (1936) The Iris dataset.](http://archive.ics.uci.edu/ml/datasets/Iris)
+4.	[NumPy](http://www.numpy.org/)
+5.	[NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+6.	[Matplotlib](https://matplotlib.org/)
+7.	[Matplotlib tutorial](https://matplotlib.org/tutorials/index.html)
+
 
