@@ -13,3 +13,16 @@ The Iris dataset was collected by Edgar Anderson to investigate the morphologic 
 5.	Iris class 
 
 This dataset is frequently used as a demonstration dataset for teaching basic programming for data analytics and machine learning. 
+
+####Exploration of data in python
+
+First a dictionary was defined for the dataset called “iris_class”. This classified the three classes of iris and their samples for future use. Next, basic data exploration was executed using the Numpy library (4), this included minimum, maximum and mean (5) of each class of iris.
+
+Both of these scripts were printed in the command line to check for errors. To allow for easier visualization, this data was then exported into a csv file (see attached iris_output.csv). 
+
+Next the data was graphed, as a basic x,y plot, using the Matplotlib library (4, 5). First six individual figures were plotted for all combinations of sepal length, sepal width, petal length, petal width, as x,y plots. The three iris classes were plotted as three different colours. As this was cumbersome, all six plots were included in one figure, with one legend.
+
+#### Results from data exploration
+
+CSV output file iris_output.csv
+Graph Figure_1.png
